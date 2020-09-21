@@ -1,5 +1,5 @@
 # Da_bookingHotel
-import file da_boking.db vào mySQL(không chạy migration đang lỗi với không có dữ liệu mẫu (seed))
+import file da_boking.db vào mySQL
 
 User Admin
 
